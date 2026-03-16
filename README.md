@@ -16,7 +16,7 @@ A responsive weather forecast web app that shows current weather and a 3-day for
 - Loading state while fetching data
 
 ## Live Demo
-https://moatazakram.github.io/Weather/
+https://moatazakram.github.io/Weather-App/
 
 ## Source Code
-https://github.com/MoatazAkram/Weather.git
+https://github.com/MoatazAkram/Weather-App.git
